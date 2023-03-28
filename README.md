@@ -11,10 +11,7 @@ The app displays the following weather information for the entered city:
 - Description of current weather conditions
 
 ## Demo
-![main](/Demo/standby.png)
-![utica](/Demo/utica.png)
-![tokyo](/Demo/tokyo.png)
-![error](/Demo/error.png)
+![demo gif](/Demo/Demo.gif)
 
 ## Usage
 
