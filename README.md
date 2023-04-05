@@ -42,6 +42,3 @@ To use the app, follow these steps:
 - Experience with error handling and displaying error messages to users using the messagebox module
 
 - Ability to follow documentation and use external resources to solve programming challenges.
-
-## About me
-I am a computer science student currently seeking my first internship in the field. I built this app as a personal project to improve my Python programming skills and gain experience with API integration and GUI development.
